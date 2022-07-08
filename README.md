@@ -1,2 +1,1 @@
-# bioinformatics-user-development
-Resources for BUD
+# Bioinformatics User Development (BUD)
