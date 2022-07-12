@@ -1,0 +1,6 @@
+*.fastq.gz
+*.fastq
+*.fa
+*.gff
+*.txt
+*.fai
