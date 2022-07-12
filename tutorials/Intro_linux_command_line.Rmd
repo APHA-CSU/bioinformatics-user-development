@@ -9,7 +9,7 @@ output:
     toc: true
     toc_depth: 2
     number_sections: yes
-    css: ["./CSS/style.css"]
+    css: ["./css/style.css"]
 ---
 
 ```{r setup, include=FALSE}
